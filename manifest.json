@@ -1,0 +1,11 @@
+{
+    "display_name": "对话导出器",
+    "loading_order": 1000,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "ztdf123",
+    "version": "1.0.0",
+    "description": "导出当前角色卡的对话内容，支持分角色导出"
+}

@@ -1,0 +1,42 @@
+#chat-exporter-container {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px 0;
+    background: #f9f9f9;
+}
+
+#chat-exporter-container h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.export-button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 14px;
+    transition: background 0.3s;
+}
+
+.export-button:hover {
+    background: #45a049;
+}
+
+.export-button:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+}
+
+#export-options {
+    margin: 10px 0;
+}
+
+#export-options label {
+    display: block;
+    margin: 5px 0;
+}
