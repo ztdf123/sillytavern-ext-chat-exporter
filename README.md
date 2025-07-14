@@ -15,7 +15,7 @@
 
 2.进入顶部菜单栏 扩展（Extensions）
 
-3.点击安装扩展，复制：https://github.com/ztdf123/sillytavern-ext-chat-exporter，最后安装即可
+3.点击安装扩展，复制：https://github.com/ztdf123/sillytavern-ext-chat-exporter 最后安装即可
 
 
 🔧 使用说明
